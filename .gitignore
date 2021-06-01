@@ -1,0 +1,12 @@
+.idea
+*.iml
+.settings
+.classpath
+target
+bin
+.project
+*.sh
+*.cmd
+*.bat
+.metadata/*
+home/*
